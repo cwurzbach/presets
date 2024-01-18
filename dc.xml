@@ -107,6 +107,7 @@
    crs:CameraProfile="Adobe Standard"
    crs:LensProfileSetup="LensDefaults"
    crs:HasSettings="True"
+   crs:WhiteBalance="As Shot"
    crs:CropConstrainToWarp="0">
    <crs:Name>
     <rdf:Alt>
