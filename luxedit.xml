@@ -22,7 +22,7 @@
    crs:Contrast2012="+20"
    crs:Highlights2012="-78"
    crs:Shadows2012="+20"
-   crs:Whites2012="+8"
+   crs:Whites2012="+10"
    crs:Blacks2012="-11"
    crs:Texture="-15"
    crs:Clarity2012="0"
